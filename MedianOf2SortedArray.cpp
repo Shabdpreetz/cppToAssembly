@@ -1,3 +1,9 @@
+// converting cpp program into Assembly using this command in minGW
+
+// cmd
+
+// gcc -S MedianOf2SortedArray.cpp 
+
 #include <iostream>
 #include <vector>
 #include <climits>
